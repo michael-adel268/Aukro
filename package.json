@@ -1,0 +1,23 @@
+{
+  "name": "aukro",
+  "version": "1.0.0",
+  "description": "Aukro testing with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-adel268/Aukro.git"
+  },
+  "author": "Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael-adel268/Aukro/issues"
+  },
+  "homepage": "https://github.com/michael-adel268/Aukro#readme",
+  "dependencies": {
+    "cypress": "^6.8.0",
+    "typescript": "^4.2.3"
+  }
+}
