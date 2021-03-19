@@ -10,7 +10,7 @@ describe("Filter and navigate items", function () {
     cy.visit("/");
   });
 
-  it("Verify that the user is able to make a filter and click the middle item and check item details", () => {
+  it("Verify that the user is able to make a filter and click the middle item and check item details.", () => {
     // Hover into Sběratelství option.
     cy.get(".nav-section.main-menu")
       .contains("Sběratelství")
